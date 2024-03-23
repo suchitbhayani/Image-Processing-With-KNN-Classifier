@@ -1,0 +1,4 @@
+- Developed image processing system in Python, implenting functionalities such as image negation, grayscale conversion, rotation, brightness adjustment, and blurring using object-oriented programming principles
+- Designed and implemented a K-Nearest Neighbors algorithm for image classification, capable of predicting labels for images based on similarities to labeled training data
+- Created a modular and extensible system with distinct classes for standard and premium image processing methods, allowing for easy addition of new functionalities and tiers
+- Addressed challenges such as input validation, error handling, and algorithm optimization for image processing and KNN classifier
