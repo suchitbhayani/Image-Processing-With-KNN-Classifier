@@ -1,10 +1,3 @@
-"""
-DSC 20 Project
-Name(s): Suchit Bhayani
-PID(s):  A18111546
-Sources: None
-"""
-
 import numpy as np
 import os
 from PIL import Image
